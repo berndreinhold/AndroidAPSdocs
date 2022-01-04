@@ -58,7 +58,9 @@ Master password
 
   .. image:: ../images/MasterPW.png
     :alt: Set master password
-  
+
+* Forgotten master password reset procedure: To reset the master password put a file named PasswordReset into the /AAPS/extra directory and restart AAPS. Then the new master password will be the serial number of your active pump.  
+
 Settings protection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * Protect your settings with a password or phone's biometric authentication (i.e. `child is using AAPS <../Children/Children.html>`_).
