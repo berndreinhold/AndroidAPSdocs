@@ -369,11 +369,14 @@ Pump settings
 The options here will vary depending on which pump driver you have selected in `Config Builder <../Configuration/Config-Builder.html#pump>`__.  Pair and set your pump up according to the pump related instructions:
 
 * `DanaR Insulin Pump <../Configuration/DanaR-Insulin-Pump.html>`_ 
-* `DanaRS Insulin Pump <../Configuration/DanaRS-Insulin-Pump.html>`_
+* `DanaRS and Dana-i Pump <../Configuration/DanaRS-Insulin-Pump.html>`_ (Dana-i support from AndroidAPS version 3.0 onwards)
 * `Accu Chek Combo Pump <../Configuration/Accu-Chek-Combo-Pump.html>`_
 * `Accu Chek Insight Pump <../Configuration/Accu-Chek-Insight-Pump.html>`_ 
+* `Diaconn G8 Insulin Pump <../Configuration/DiaconnG8.html>`_
 * `Medtronic Pump <../Configuration/MedtronicPump.html>`_
+* `Omnipod Eros Pump <../Configuration/OmnipodEros.html>`_ (not Omnipod Dash!)
 
+For AndroidAPS version 3.0 the internal interface for pump drivers has been rewritten.
 If using AndroidAPS to open loop then make sure you have selected Virtual Pump in config builder.
 
 NSClient
